@@ -129,6 +129,10 @@ def monopoly_with_fourth_tier
     },
     :names=>
     {
+      :shortline=>
+      {
+        "mortgage_value"=>"$800"
+      },
       :reading_railroad=>
       {
         "mortgage_value"=>"$100"
@@ -140,9 +144,7 @@ def monopoly_with_fourth_tier
       :b_and_o_railroad=>
       {
         "mortgage_value"=>"$400"
-      },
-      :shortline=>
-      {}
+      }
     }
   }
 	}
