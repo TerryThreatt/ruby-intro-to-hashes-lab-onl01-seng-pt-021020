@@ -140,10 +140,6 @@ def monopoly_with_fourth_tier
       :shortline=>
       {
         "mortgage_value"=>"$800"
-      },
-      :b_and_o_railroad=>
-      {
-        "mortgage_value"=>"$400"
       }
     }
   }
